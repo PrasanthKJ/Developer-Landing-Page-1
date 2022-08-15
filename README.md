@@ -10,7 +10,7 @@ Technology used     : **HTML5, CSS**
 
 ### Blog Demo:
 
-![Developer Landing Page]()
+![Developer Landing Page](https://github.com/PrasanthKJ/Developer-Landing-Page-1/blob/main/thumbnail.png)
 ---
 ### P.S
 
